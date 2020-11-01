@@ -1,0 +1,2 @@
+/Users/arunkalita/Projects/carManufacturer_QueryString/carManufacturer_QueryString.Tests/obj/Debug/carManufacturer_QueryString.Tests.csprojAssemblyReference.cache
+/Users/arunkalita/Projects/carManufacturer_QueryString/carManufacturer_QueryString.Tests/obj/Debug/carManufacturer_QueryString.Tests.csproj.CoreCompileInputs.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginPage", "LoginPage\LoginPage.csproj", "{07461BFB-5CC5-464E-861D-7703DD65F89C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginPage.Tests", "LoginPage.Tests\LoginPage.Tests.csproj", "{04DE51DC-3C5A-45F4-B720-429CD97F75B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07461BFB-5CC5-464E-861D-7703DD65F89C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07461BFB-5CC5-464E-861D-7703DD65F89C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07461BFB-5CC5-464E-861D-7703DD65F89C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07461BFB-5CC5-464E-861D-7703DD65F89C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04DE51DC-3C5A-45F4-B720-429CD97F75B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04DE51DC-3C5A-45F4-B720-429CD97F75B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04DE51DC-3C5A-45F4-B720-429CD97F75B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04DE51DC-3C5A-45F4-B720-429CD97F75B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE9F6A93-79D1-4B61-9303-369AB66A51E8}
+	EndGlobalSection
+EndGlobal
