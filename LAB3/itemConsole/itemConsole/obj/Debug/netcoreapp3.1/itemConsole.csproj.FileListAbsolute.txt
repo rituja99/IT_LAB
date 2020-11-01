@@ -1,0 +1,12 @@
+/Users/arunkalita/Projects/itemConsole/itemConsole/bin/Debug/netcoreapp3.1/itemConsole.deps.json
+/Users/arunkalita/Projects/itemConsole/itemConsole/bin/Debug/netcoreapp3.1/itemConsole.runtimeconfig.json
+/Users/arunkalita/Projects/itemConsole/itemConsole/bin/Debug/netcoreapp3.1/itemConsole.runtimeconfig.dev.json
+/Users/arunkalita/Projects/itemConsole/itemConsole/bin/Debug/netcoreapp3.1/itemConsole.dll
+/Users/arunkalita/Projects/itemConsole/itemConsole/bin/Debug/netcoreapp3.1/itemConsole.pdb
+/Users/arunkalita/Projects/itemConsole/itemConsole/obj/Debug/netcoreapp3.1/itemConsole.csprojAssemblyReference.cache
+/Users/arunkalita/Projects/itemConsole/itemConsole/obj/Debug/netcoreapp3.1/itemConsole.AssemblyInfoInputs.cache
+/Users/arunkalita/Projects/itemConsole/itemConsole/obj/Debug/netcoreapp3.1/itemConsole.AssemblyInfo.cs
+/Users/arunkalita/Projects/itemConsole/itemConsole/obj/Debug/netcoreapp3.1/itemConsole.csproj.CoreCompileInputs.cache
+/Users/arunkalita/Projects/itemConsole/itemConsole/obj/Debug/netcoreapp3.1/itemConsole.dll
+/Users/arunkalita/Projects/itemConsole/itemConsole/obj/Debug/netcoreapp3.1/itemConsole.pdb
+/Users/arunkalita/Projects/itemConsole/itemConsole/obj/Debug/netcoreapp3.1/itemConsole.genruntimeconfig.cache

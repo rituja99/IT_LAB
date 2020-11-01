@@ -1,0 +1,12 @@
+/Users/arunkalita/Projects/ItemEventHandler/ItemEventHandler/bin/Debug/netcoreapp3.1/ItemEventHandler.deps.json
+/Users/arunkalita/Projects/ItemEventHandler/ItemEventHandler/bin/Debug/netcoreapp3.1/ItemEventHandler.runtimeconfig.json
+/Users/arunkalita/Projects/ItemEventHandler/ItemEventHandler/bin/Debug/netcoreapp3.1/ItemEventHandler.runtimeconfig.dev.json
+/Users/arunkalita/Projects/ItemEventHandler/ItemEventHandler/bin/Debug/netcoreapp3.1/ItemEventHandler.dll
+/Users/arunkalita/Projects/ItemEventHandler/ItemEventHandler/bin/Debug/netcoreapp3.1/ItemEventHandler.pdb
+/Users/arunkalita/Projects/ItemEventHandler/ItemEventHandler/obj/Debug/netcoreapp3.1/ItemEventHandler.csprojAssemblyReference.cache
+/Users/arunkalita/Projects/ItemEventHandler/ItemEventHandler/obj/Debug/netcoreapp3.1/ItemEventHandler.AssemblyInfoInputs.cache
+/Users/arunkalita/Projects/ItemEventHandler/ItemEventHandler/obj/Debug/netcoreapp3.1/ItemEventHandler.AssemblyInfo.cs
+/Users/arunkalita/Projects/ItemEventHandler/ItemEventHandler/obj/Debug/netcoreapp3.1/ItemEventHandler.csproj.CoreCompileInputs.cache
+/Users/arunkalita/Projects/ItemEventHandler/ItemEventHandler/obj/Debug/netcoreapp3.1/ItemEventHandler.dll
+/Users/arunkalita/Projects/ItemEventHandler/ItemEventHandler/obj/Debug/netcoreapp3.1/ItemEventHandler.pdb
+/Users/arunkalita/Projects/ItemEventHandler/ItemEventHandler/obj/Debug/netcoreapp3.1/ItemEventHandler.genruntimeconfig.cache

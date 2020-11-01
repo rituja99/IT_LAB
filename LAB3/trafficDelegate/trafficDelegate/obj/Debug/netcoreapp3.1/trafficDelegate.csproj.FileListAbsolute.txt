@@ -1,0 +1,12 @@
+/Users/arunkalita/Projects/trafficDelegate/trafficDelegate/obj/Debug/netcoreapp3.1/trafficDelegate.csprojAssemblyReference.cache
+/Users/arunkalita/Projects/trafficDelegate/trafficDelegate/obj/Debug/netcoreapp3.1/trafficDelegate.AssemblyInfoInputs.cache
+/Users/arunkalita/Projects/trafficDelegate/trafficDelegate/obj/Debug/netcoreapp3.1/trafficDelegate.AssemblyInfo.cs
+/Users/arunkalita/Projects/trafficDelegate/trafficDelegate/obj/Debug/netcoreapp3.1/trafficDelegate.csproj.CoreCompileInputs.cache
+/Users/arunkalita/Projects/trafficDelegate/trafficDelegate/bin/Debug/netcoreapp3.1/trafficDelegate.deps.json
+/Users/arunkalita/Projects/trafficDelegate/trafficDelegate/bin/Debug/netcoreapp3.1/trafficDelegate.runtimeconfig.json
+/Users/arunkalita/Projects/trafficDelegate/trafficDelegate/bin/Debug/netcoreapp3.1/trafficDelegate.runtimeconfig.dev.json
+/Users/arunkalita/Projects/trafficDelegate/trafficDelegate/bin/Debug/netcoreapp3.1/trafficDelegate.dll
+/Users/arunkalita/Projects/trafficDelegate/trafficDelegate/bin/Debug/netcoreapp3.1/trafficDelegate.pdb
+/Users/arunkalita/Projects/trafficDelegate/trafficDelegate/obj/Debug/netcoreapp3.1/trafficDelegate.dll
+/Users/arunkalita/Projects/trafficDelegate/trafficDelegate/obj/Debug/netcoreapp3.1/trafficDelegate.pdb
+/Users/arunkalita/Projects/trafficDelegate/trafficDelegate/obj/Debug/netcoreapp3.1/trafficDelegate.genruntimeconfig.cache
