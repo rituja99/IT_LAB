@@ -1,0 +1,72 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Lab6Q2.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style3 {
+            width: 1009px;
+            height: 250px;
+        }
+        .auto-style4 {
+            width: 50%;
+            height: 233px;
+            margin-left: 25px;
+            margin-bottom: 0px;
+        }
+        .auto-style5 {
+            width: 6px;
+            height: 250px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div style="font-size: 20px; background-image: url('/siteImage.png'); 
+        background-repeat: no-repeat; background-attachment: fixed; background-position: center;
+        position: absolute; width: 500%; height: 500%; padding: 0px; background-size:cover" >
+            <img src="shopify-logo.png" style="height: 71px; width: 151px" /><br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <table class="auto-style4">
+                <tr>
+                    <td class="auto-style5">
+            <asp:TreeView ID="TreeView1" runat="server" Height="238px"
+                style="margin-left: 0px" Width="97px" ImageSet="Arrows" OnSelectedNodeChanged="TreeView1_SelectedNodeChanged">
+                <HoverNodeStyle Font-Underline="True" ForeColor="#5555DD" />
+                <Nodes>
+                    <asp:TreeNode Text="CONTENTS" Value="CONTENTS">
+                        <asp:TreeNode Text="BAGGAGES" Value="LUGGAGES" NavigateUrl="~/page2.aspx"></asp:TreeNode>
+                        <asp:TreeNode NavigateUrl="~/page1.aspx" Text="ELECTRONICS" Value="ELECTRONICS"></asp:TreeNode>
+                        <asp:TreeNode NavigateUrl="~/page3.aspx" Text="OFFERS" Value="OFFERS"></asp:TreeNode>
+                    </asp:TreeNode>
+                </Nodes>
+                <NodeStyle Font-Names="Tahoma"
+                    Font-Size="10pt" ForeColor="Black" HorizontalPadding="5px"
+                    NodeSpacing="0px" VerticalPadding="0px" />
+                <ParentNodeStyle Font-Bold="False" />
+                <SelectedNodeStyle Font-Underline="True" 
+                    ForeColor="#5555DD" HorizontalPadding="0px" VerticalPadding="0px" />
+                </asp:TreeView>
+                    </td>
+                    
+                    <td class="auto-style3"><asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    <br />
+               
+                    </asp:ContentPlaceHolder>
+
+                    </td>
+                </tr>
+                
+            </table>
+            
+            &nbsp;</div>
+    </form>
+</body>
+</html>
