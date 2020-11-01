@@ -1,0 +1,6 @@
+/Users/arunkalita/Projects/studentForm_Lab6Q1/studentForm_Lab6Q1/obj/Debug/studentForm_Lab6Q1.csprojAssemblyReference.cache
+/Users/arunkalita/Projects/studentForm_Lab6Q1/studentForm_Lab6Q1/obj/Debug/studentForm_Lab6Q1.csproj.CoreCompileInputs.cache
+/Users/arunkalita/Projects/studentForm_Lab6Q1/studentForm_Lab6Q1/bin/studentForm_Lab6Q1.dll
+/Users/arunkalita/Projects/studentForm_Lab6Q1/studentForm_Lab6Q1/bin/studentForm_Lab6Q1.pdb
+/Users/arunkalita/Projects/studentForm_Lab6Q1/studentForm_Lab6Q1/obj/Debug/studentForm_Lab6Q1.dll
+/Users/arunkalita/Projects/studentForm_Lab6Q1/studentForm_Lab6Q1/obj/Debug/studentForm_Lab6Q1.pdb
