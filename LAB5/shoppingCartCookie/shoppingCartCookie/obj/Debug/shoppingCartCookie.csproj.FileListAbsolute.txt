@@ -1,0 +1,13 @@
+/Users/arunkalita/Projects/shoppingCartCookie/shoppingCartCookie/bin/shoppingCartCookie.dll
+/Users/arunkalita/Projects/shoppingCartCookie/shoppingCartCookie/bin/shoppingCartCookie.pdb
+/Users/arunkalita/Projects/shoppingCartCookie/shoppingCartCookie/obj/Debug/shoppingCartCookie.csprojAssemblyReference.cache
+/Users/arunkalita/Projects/shoppingCartCookie/shoppingCartCookie/obj/Debug/shoppingCartCookie.csproj.CoreCompileInputs.cache
+/Users/arunkalita/Projects/shoppingCartCookie/shoppingCartCookie/obj/Debug/shoppingCartCookie.dll
+/Users/arunkalita/Projects/shoppingCartCookie/shoppingCartCookie/obj/Debug/shoppingCartCookie.pdb
+/Users/arunkalita/Projects/shoppingCartCookie/shoppingCartCookie/bin/Microsoft.VisualStudio.Designer.Interfaces.dll
+/Users/arunkalita/Projects/shoppingCartCookie/shoppingCartCookie/bin/Newtonsoft.Json.dll
+/Users/arunkalita/Projects/shoppingCartCookie/shoppingCartCookie/bin/System.Net.Http.Formatting.dll
+/Users/arunkalita/Projects/shoppingCartCookie/shoppingCartCookie/bin/Newtonsoft.Json.xml
+/Users/arunkalita/Projects/shoppingCartCookie/shoppingCartCookie/bin/System.Net.Http.Formatting.xml
+/Users/arunkalita/Projects/shoppingCartCookie/shoppingCartCookie/bin/Microsoft.VisualStudio.Designer.Interfaces.xml
+/Users/arunkalita/Projects/shoppingCartCookie/shoppingCartCookie/obj/Debug/shoppingCartCookie.csproj.CopyComplete
