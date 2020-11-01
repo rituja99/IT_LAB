@@ -1,0 +1,6 @@
+/Users/arunkalita/Projects/magazineCover/magazineCover/obj/Debug/magazineCover.csprojAssemblyReference.cache
+/Users/arunkalita/Projects/magazineCover/magazineCover/obj/Debug/magazineCover.csproj.CoreCompileInputs.cache
+/Users/arunkalita/Projects/magazineCover/magazineCover/bin/magazineCover.dll
+/Users/arunkalita/Projects/magazineCover/magazineCover/bin/magazineCover.pdb
+/Users/arunkalita/Projects/magazineCover/magazineCover/obj/Debug/magazineCover.dll
+/Users/arunkalita/Projects/magazineCover/magazineCover/obj/Debug/magazineCover.pdb
