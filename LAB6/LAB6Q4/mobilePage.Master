@@ -1,0 +1,42 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="mobilePage.master.cs" Inherits="Lab6Q4.mobilePage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <link href="StyleSheet1.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body >
+    <form id="form1" runat="server" font-size="50px">
+        
+                 <div class="auto-style1">
+                     <br />
+                     <asp:Label ID="Label2" runat="server" 
+                         Text="Mobi.com" Font-Bold="True" Font-Italic="True"
+                         Font-Names="Ink Free" Font-Size="50px"></asp:Label>
+                  </div>
+        
+                    <div class="auto-style2" ><br /><br /><br />
+                         <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+                             <asp:Label ID="Label1" runat="server"  ></asp:Label>
+                        </asp:ContentPlaceHolder> 
+                     </div>
+               
+                    <div class="auto-style3">
+                        <br /><br /><br />
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+                     
+
+                
+
+         
+               
+            
+    </form>
+</body>
+</html>
